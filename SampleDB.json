@@ -1,0 +1,175 @@
+{
+    "Bird": [
+        {
+            "APV": "Not APV vaccinated",
+            "adopted": "In Foster Care",
+            "age": 2,
+            "breed": "Ashenfallow",
+            "gender": "Female",
+            "id": 1385,
+            "name": "Sherry",
+            "species": "Cockatiel"
+        },
+        {
+            "APV": "APV vaccination scheduled",
+            "adopted": "Not Adopted",
+            "age": 2,
+            "breed": "Zebra",
+            "gender": "Male",
+            "id": 2022,
+            "name": "Bran",
+            "species": "Finch"
+        },
+        {
+            "APV": "Not APV vaccinated",
+            "adopted": "Not Adopted",
+            "age": 1,
+            "breed": "Bengalese",
+            "gender": "Female",
+            "id": 3333,
+            "name": "Katie",
+            "species": "Finch"
+        },
+        {
+            "APV": "Not APV vaccinated",
+            "adopted": "In Foster Care",
+            "age": 2,
+            "breed": "Tanimbar Corella",
+            "gender": "Female",
+            "id": 6582,
+            "name": "Giselle",
+            "species": "Cockatoo"
+        },
+        {
+            "APV": "APV vaccinated",
+            "adopted": "Adopted",
+            "age": 1,
+            "breed": "Kea",
+            "gender": "Male",
+            "id": 9768,
+            "name": "Bert",
+            "species": "Parrot"
+        }
+    ],
+    "Cat": [
+        {
+            "FVRCP": "FVRCP vaccinated",
+            "adopted": "Adopted",
+            "age": 4,
+            "breed": "European",
+            "gender": "Female",
+            "id": 1012,
+            "name": "Lappe"
+        },
+        {
+            "FVRCP": "FVRCP vaccinated",
+            "adopted": "Adopted",
+            "age": 3,
+            "breed": "European",
+            "gender": "Male",
+            "id": 1013,
+            "name": "Carbon"
+        },
+        {
+            "FVRCP": "FVRCP vaccination scheduled",
+            "adopted": "Adopted",
+            "age": 1,
+            "breed": "Siamese",
+            "gender": "Male",
+            "id": 9999,
+            "name": "Oreo"
+        },
+        {
+            "FVRCP": "FVRCP vaccinated",
+            "adopted": "Not Adopted",
+            "age": 5,
+            "breed": "Persian",
+            "gender": "Female",
+            "id": 1398,
+            "name": "Marmalade"
+        },
+        {
+            "FVRCP": "FVRCP vaccinated",
+            "adopted": "Adopted",
+            "age": 7,
+            "breed": "European",
+            "gender": "Female",
+            "id": 1331,
+            "name": "Olive"
+        },
+        {
+            "FVRCP": "FVRCP vaccination scheduled",
+            "adopted": "In Foster Care",
+            "age": 10,
+            "breed": "Scottish Fold",
+            "gender": "Male",
+            "id": 8888,
+            "name": "Ursus"
+        },
+        {
+            "FVRCP": "Not FVRCP vaccinated",
+            "adopted": "In Foster Care",
+            "age": 4,
+            "breed": "Maine Coon",
+            "gender": "Male",
+            "id": 9999,
+            "name": "Samson"
+        },
+        {
+            "FVRCP": "FVRCP vaccination scheduled",
+            "adopted": "In Foster Care",
+            "age": 6,
+            "breed": "Turkish Angora",
+            "gender": "Female",
+            "id": 4630,
+            "name": "Mango"
+        }
+    ],
+    "Dog": [
+        {
+            "DHLPP": "DHLPP vaccinated",
+            "adopted": "Adopted",
+            "age": 8,
+            "breed": "Jack Russel Terrier",
+            "gender": "Male",
+            "id": 6666,
+            "name": "Speedy"
+        },
+        {
+            "DHLPP": "Not DHLPP vaccinated",
+            "adopted": "In Foster Care",
+            "age": 9,
+            "breed": "Parson Russel Terrier",
+            "gender": "Male",
+            "id": 7666,
+            "name": "Mickey"
+        },
+        {
+            "DHLPP": "DHLPP vaccination scheduled",
+            "adopted": "Not Adopted",
+            "age": 5,
+            "breed": "American Eskimo",
+            "gender": "Male",
+            "id": 4895,
+            "name": "Snowy"
+        },
+        {
+            "DHLPP": "DHLPP vaccinated",
+            "adopted": "In Foster Care",
+            "age": 3,
+            "breed": "Miniature Dachshund",
+            "gender": "Female",
+            "id": 8563,
+            "name": "Mary"
+        },
+        {
+            "DHLPP": "DHLPP vaccinated",
+            "adopted": "Adopted",
+            "age": 11,
+            "breed": "Pembroke Welsh Corgi",
+            "gender": "Male",
+            "id": 5647,
+            "name": "Harry"
+        }
+    ]
+}
